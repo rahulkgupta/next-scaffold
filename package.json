@@ -26,7 +26,7 @@
     "npm": "^6.14.5",
     "prettier": "^2.0.5",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react-dom": "^16.13.0"
   },
   "devDependencies": {
     "@testing-library/react": "^10.0.4",
